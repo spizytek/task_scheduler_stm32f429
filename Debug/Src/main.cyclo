@@ -1,0 +1,17 @@
+../Src/main.c:56:5:main	1
+../Src/main.c:84:6:task1	1
+../Src/main.c:94:6:task2	1
+../Src/main.c:105:6:task3	1
+../Src/main.c:115:6:task4	1
+../Src/main.c:126:6:init_systick_tim	1
+../Src/main.c:167:29:init_schd_task	1
+../Src/main.c:182:6:init_stack_tasks	3
+../Src/main.c:217:6:processor_fault_enable	1
+../Src/main.c:231:10:get_psp_current_value	1
+../Src/main.c:236:29:set_sp_to_psp	1
+../Src/main.c:254:6:save_psp_current_value	1
+../Src/main.c:259:6:update_the_next_task	1
+../Src/main.c:265:29:SysTick_Handler	1
+../Src/main.c:293:6:MemManage_Handler	1
+../Src/main.c:299:6:BusFault_Handler	1
+../Src/main.c:305:6:UsageFault_Handler	1

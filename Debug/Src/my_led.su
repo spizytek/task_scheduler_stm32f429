@@ -1,0 +1,4 @@
+../Src/my_led.c:14:6:delay	24	static
+../Src/my_led.c:19:6:led_init	24	static
+../Src/my_led.c:50:6:led_on	24	static
+../Src/my_led.c:69:6:led_off	24	static
