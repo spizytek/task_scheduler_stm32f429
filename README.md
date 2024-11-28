@@ -2,7 +2,7 @@
 
 # STM32 Multi-Tasking System with LED Control
 
-This project demonstrates a basic **multi-tasking system** on an STM32 microcontroller. The program initializes a task scheduler, switches between tasks in a round-robin fashion, and toggles LEDs at varying rates. This is achieved using custom task management and SysTick timer interrupts.
+This project demonstrates a basic **multi-tasking system** on an STM32 microcontroller (STM32F4). The program initializes a task scheduler, switches between tasks in a round-robin fashion, and toggles LEDs at varying rates. This is achieved using custom task management and SysTick timer interrupts.
 
 ---
 
